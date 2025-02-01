@@ -1,0 +1,33 @@
+2025-02-01 09:33:40.895 | INFO     | utils_logger:<module>:39 - Logging to file: logs\project_log.log
+2025-02-01 09:33:40.895 | INFO     | __main__:<module>:52 - CHARTS - Ready for work.
+2025-02-01 09:33:40.896 | INFO     | __main__:main:26 - Starting main function.
+2025-02-01 09:33:42.074 | INFO     | __main__:main:31 - Loaded penguins dataset successfully.
+2025-02-01 09:33:42.130 | INFO     | __main__:main:39 - NOTE: Close the chart window to continue and exit the script.
+2025-02-01 09:33:42.222 | INFO     | __main__:main:41 - Exiting main function.
+2025-02-01 09:33:42.232 | INFO     | __main__:<module>:54 - CHARTS - Execution complete.
+2025-02-01 09:34:18.320 | INFO     | __main__:<module>:52 - CHARTS - Ready for work.
+2025-02-01 09:34:18.321 | INFO     | __main__:main:26 - Starting main function.
+2025-02-01 09:34:18.325 | INFO     | __main__:main:31 - Loaded penguins dataset successfully.
+2025-02-01 09:34:18.351 | INFO     | __main__:main:39 - NOTE: Close the chart window to continue and exit the script.
+2025-02-01 09:34:18.418 | INFO     | __main__:main:41 - Exiting main function.
+2025-02-01 09:34:18.419 | INFO     | __main__:<module>:54 - CHARTS - Execution complete.
+2025-02-01 09:34:29.662 | INFO     | utils_logger:<module>:39 - Logging to file: logs\project_log.log
+2025-02-01 09:34:29.663 | INFO     | __main__:<module>:72 - STATS - Ready for work.
+2025-02-01 09:34:29.663 | INFO     | __main__:main:55 - Starting MAIN function.
+2025-02-01 09:34:29.664 | INFO     | __main__:main:58 - Scores: [3.5, 4.0, 4.8, 2.9, 3.7, 4.3, 3.8]
+2025-02-01 09:34:29.664 | INFO     | __main__:main:59 - Minimum: 2.90
+2025-02-01 09:34:29.665 | INFO     | __main__:main:60 - Maximum: 4.80
+2025-02-01 09:34:29.666 | INFO     | __main__:main:61 - Mean: 3.86
+2025-02-01 09:34:29.667 | INFO     | __main__:main:62 - Standard Deviation: 0.60
+2025-02-01 09:34:29.668 | INFO     | __main__:main:64 - Exiting MAIN function.
+2025-02-01 09:34:29.668 | INFO     | __main__:<module>:80 - STATS - Execution complete.
+2025-02-01 09:36:46.560 | INFO     | utils_logger:<module>:39 - Logging to file: logs\project_log.log
+2025-02-01 09:36:46.561 | INFO     | __main__:<module>:72 - STATS - Ready for work.
+2025-02-01 09:36:46.563 | INFO     | __main__:main:55 - Starting MAIN function.
+2025-02-01 09:36:46.564 | INFO     | __main__:main:58 - Scores: [3.5, 4.0, 4.8, 2.9, 3.7, 4.3, 3.8]
+2025-02-01 09:36:46.565 | INFO     | __main__:main:59 - Minimum: 2.90
+2025-02-01 09:36:46.565 | INFO     | __main__:main:60 - Maximum: 4.80
+2025-02-01 09:36:46.566 | INFO     | __main__:main:61 - Mean: 3.86
+2025-02-01 09:36:46.567 | INFO     | __main__:main:62 - Standard Deviation: 0.60
+2025-02-01 09:36:46.568 | INFO     | __main__:main:64 - Exiting MAIN function.
+2025-02-01 09:36:46.569 | INFO     | __main__:<module>:80 - STATS - Execution complete.
